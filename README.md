@@ -1,1 +1,1 @@
-# -Static_String
+# Static_String
